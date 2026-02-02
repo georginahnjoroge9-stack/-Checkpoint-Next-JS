@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="hero">
-      <h1>Hello, I’m Georgina 👋</h1>
+      <h1>Hello, I’m Georgina Anne 👋</h1>
       <p>Upcoming Software Engineer | Next.js Portfolio</p>
 
       <Image
